@@ -1,0 +1,16 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-image {
+  width: 100px;
+  object-fit: cover;
+}
+.home-video {
+  width: 320px;
+  height: 180px;
+}
